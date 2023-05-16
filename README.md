@@ -4,7 +4,7 @@ Hi 👋 My name is Thanasak Mekaruttanakul
 Computer Engineering Student
 ----------------------------
 
-I'm looking forward to improve my skills furthermore in website and software development.
+I'm looking forward to improve my skills furthermore in website development.
 
 * 🌍  I'm based in Bangkok, Thailand
 
