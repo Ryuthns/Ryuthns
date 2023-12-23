@@ -1,4 +1,4 @@
-Hi 👋 My name is Thanasak Mekaruttanakul
+Hi 👋 My name is Ryu
 ========================================
 
 Computer Engineering Student
