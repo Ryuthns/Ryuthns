@@ -29,14 +29,4 @@ I'm looking forward to improve my skills furthermore in website development.
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Ryuthns" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@s6301012620049" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Ryuthns"><img src="https://github-readme-stats.vercel.app/api?username=Ryuthns&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&show_icons=true" alt="Ryuthns's GitHub stats" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Ryuthns/MQTT-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryuthns&repo=MQTT-Project&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<p align="left"> <a href="https://www.github.com/Ryuthns" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@s6301012620049" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p
